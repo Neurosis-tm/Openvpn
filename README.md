@@ -6,6 +6,4 @@ Script install server!
 4. chmod +x r-open.sh
 5. ./r-open.sh
 
-about
-
 Contact: https://t.me/REDHAKER
